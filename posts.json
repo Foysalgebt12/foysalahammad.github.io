@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Launching my academic site",
+    "slug": "launching-my-academic-site",
+    "date": "2025-08-15",
+    "summary": "A quick tour of research areas, publications, and how to reach me.",
+    "tags": [
+      "site",
+      "meta"
+    ],
+    "url": "blog/launching-my-academic-site.html"
+  },
+  {
+    "title": "Protein design: closing the loop with ML + experiment",
+    "slug": "protein-design-closed-loop",
+    "date": "2025-07-10",
+    "summary": "How diffusion backbones and ProteinMPNN guide small, testable mini‑libraries.",
+    "tags": [
+      "protein-design",
+      "ml"
+    ],
+    "url": "blog/protein-design-closed-loop.html"
+  }
+]
