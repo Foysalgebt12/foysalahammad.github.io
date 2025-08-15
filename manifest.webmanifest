@@ -1,0 +1,15 @@
+{
+  "name": "Foysal Ahammad \u2014 Academic Portfolio",
+  "short_name": "Foysal",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
